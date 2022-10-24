@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Main {
   public static void main(String[] args) {
     Pessoa[] pessoa = new Pessoa[10];
